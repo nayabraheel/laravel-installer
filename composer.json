@@ -1,7 +1,7 @@
 {
     "name": "prosigns/laravel-installer",
     "description": "Laravel web installer",
-    "license": "Prosigns",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nayab Raheel",
